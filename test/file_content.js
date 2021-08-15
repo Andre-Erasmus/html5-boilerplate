@@ -1,7 +1,7 @@
 import assert from 'assert';
 import fs from 'fs';
 import path from 'path';
-
+changing something in new remote branch
 import pkg from './../package.json';
 
 const dirs = pkg['h5bp-configs'].directories;
